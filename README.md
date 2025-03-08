@@ -133,3 +133,5 @@ CREATE TABLE IF NOT EXISTS snake_data (
 2. 累计净值折线图：展示累计净值（买入-卖出）的变化趋势
 
 透视图保存在`data/picture`目录下，并在消息回复中自动发送。图片命名格式为`snake_pivot_{日期}.png`。 
+
+![案例图片](https://github.com/ldyers/snakeData/blob/main/%E6%A1%88%E4%BE%8B%E5%9B%BE%E7%89%87.png)
